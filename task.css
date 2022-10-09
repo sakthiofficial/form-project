@@ -1,0 +1,77 @@
+*{
+    padding:0;
+    margin: 0;
+}
+.fc{
+    font-family:Copperplate Gothic;
+    color:#494d5f;
+    background-color: #edf7f6;
+  
+}
+.hd{
+  
+   text-align:center;
+   margin: 0px !important;
+}
+.headMain{
+    margin: 0px;
+}
+
+.stuf{
+   
+    text-align: center;
+}
+.img1{
+    
+    padding:100px;
+   
+  
+   
+}
+.cont>table{
+    text-align: center;
+    background-color: #edf7f6;
+    color:#ffa886;
+    justify-content: space-around;
+    position: relative;
+    padding: 0px;
+    margin-left: 10px;
+    width: 500px;
+    
+    
+    
+    
+}
+label{
+    text-align:right ;
+    padding: 10px;
+   
+}
+.cont{
+    
+    padding: 40px;
+    margin: 0px;
+
+}
+.button1{
+   
+   
+    margin:10px;
+    padding: 0px;
+}
+.button1>button{
+    border-radius: 3px;
+    border:0px solid white;
+    box-shadow: 2px black;
+     margin-right: 50px;
+     padding: 10px;
+}
+/* .button1>button:hover{
+    color: #000;
+} */
+button:focus{
+    outline:none;
+    box-shadow:  1px 1px 1px 1px hsl(0, 4%, 37%);
+    } 
+    
+   
